@@ -2,8 +2,6 @@
 
 Email ko unke purpose, source, aur behavior ke adhar par kai alag-alag categories mein classify kiya ja sakta hai. Neeche common email classifications di gayi hain:
 
----
-
 ## 1. 📥 Based on Function (कार्य के अनुसार)
 
 ### a. **Transactional Emails**
